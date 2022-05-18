@@ -53,3 +53,4 @@ RithikaOliverCoin.addBlock(new Block(3, "04/05/2022", { amount: 12 }));
 //console.log('Is blockchain valid?' + RithikaOliverCoin.isChainValid());
 //console.log(JSON.stringify(RithikaOliverCoin, null, 4));
 
+
